@@ -1,0 +1,40 @@
+{
+  "name": "vue-project-cost-system",
+  "version": "5.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "@element-plus/icons-vue": "^1.1.4",
+    "axios": "^0.21.4",
+    "echarts": "^5.3.2",
+    "echarts-liquidfill": "^3.1.0",
+    "element-plus": "1.0.2-beta.52",
+    "elui-china-area-dht": "^2.0.0",
+    "moment": "^2.29.3",
+    "node-sass": "^7.0.1",
+    "uuid": "^8.3.2",
+    "vue": "^3.2.4",
+    "vue-cropperjs": "^5.0.0",
+    "vue-i18n": "^9.0.0",
+    "vue-router": "^4.0.10",
+    "vue-schart": "^2.0.0",
+    "vuex": "^4.0.2",
+    "wangeditor": "^4.7.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.1.2",
+    "node": "^17.7.2",
+    "vite": "2.3.7"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
